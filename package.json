@@ -1,0 +1,15 @@
+{
+  "name": "farbentaub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Oliver Kierepka <mrmoree2@gmail.com> (http://oliverkierepka.de)",
+  "license": "ISC",
+  "dependencies": {
+    "fontfaceobserver": "^2.1.0"
+  }
+}
